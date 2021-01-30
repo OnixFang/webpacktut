@@ -1,7 +1,7 @@
 # webpacktut
 
-This project was made following Gary Simon' tutorial:
-https://www.youtube.com/watch?v=TzdEpgONurw&ab_channel=DesignCourse
+This project was made following Gary Simon' tutorial:  
+[Webpack 4 Tutorial - Getting Started for Beginners](https://www.youtube.com/watch?v=TzdEpgONurw&ab_channel=DesignCourse)
 
 After that it, became my webpack playground where I was able to learn how to:
 
